@@ -19,17 +19,19 @@ A high-performance framework for real-time process injection and engine-interope
 <table>
   <tr>
     <td align="center">
-      <img src="gif1.gif" width="300px"/><br/>
+      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation4.gif" width="300px"/><br/>
       <b>Feature One</b><br/>
       <i>Brief description of the feature.</i>
     </td>
     <td align="center">
-      <img src="gif2.gif" width="300px"/><br/>
+      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation5.gif" width="300px"/><br/>
       <b>Feature Two</b><br/>
       <i>Brief description of the second feature.</i>
     </td>
   </tr>
 </table>
+
+![Alt Text 1](https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation4.gif) ![Alt Text 2](https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation5.gif)
 
 ## 📦 Featured Systems Projects
 *   **[Winsock Network Interceptor (C)](https://github.com/nick-cdev/Winsock32-hook)** — ✅ **Stable**
