@@ -31,7 +31,7 @@ A high-performance framework for real-time process injection and engine-interope
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/anim6.gif" width="300px"/><br/>
+      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/anim6.gif" width="100px"/><br/>
       <b>Feature Two</b><br/>
       <i>Brief description of the second feature.</i>
     </td>
