@@ -11,11 +11,6 @@ A high-performance framework for real-time process injection and engine-interope
 *   **Automation Suite:** Tools for repetitive gameplay tasks, Direct3D visualization and combat efficiency.
 *   **Optimized:** Built to run smoothly without dropping your FPS.
 
-https://github.com/user-attachments/assets/1395bcd5-ea23-4ef5-ab8c-be42410071bc
-
-<video src="https://github.com/user-attachments/assets/1395bcd5-ea23-4ef5-ab8c-be42410071bc" controls="controls" style="max-width: 100%;">
-</video>
-
 <p align="center">
   <p><i>A quick demo of the injected DirectX playerboxes overlay and 1 button binded together gameplay actions.</i></p>
   <video src="https://github.com/user-attachments/assets/1395bcd5-ea23-4ef5-ab8c-be42410071bc" width="100%" controls>
