@@ -19,19 +19,19 @@ A high-performance framework for real-time process injection and engine-interope
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation4.gif" width="400px"/><br/>
+      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation4.gif" width="45%"/><br/>
       <b>Feature One</b><br/>
       <i>Brief description of the feature.</i>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation5.gif" width="200px"/><br/>
+      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation5.gif" width="45%"/><br/>
       <b>Feature Two</b><br/>
       <i>Brief description of the second feature.</i>
     </td>
     <td align="center">
-      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/anim6.gif" width="200px"/><br/>
+      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/anim6.gif" width="45%"/><br/>
       <b>Feature Two</b><br/>
       <i>Brief description of the second feature.</i>
     </td>
