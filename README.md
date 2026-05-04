@@ -15,28 +15,23 @@ A high-performance framework for real-time process injection and engine-interope
   <p><i>A quick demo of an injected DirectX overlay featuring player bounding boxes and single-key gameplay macros.</i></p>
   <video src="https://github.com/user-attachments/assets/1395bcd5-ea23-4ef5-ab8c-be42410071bc" width="100%" controls>
   </video>
+</p>
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation4.gif" width="45%"/><br/>
+      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation4.gif" width="300px"/><br/>
       <b>Feature One</b><br/>
       <i>Brief description of the feature.</i>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation5.gif" width="45%"/><br/>
-      <b>Feature Two</b><br/>
-      <i>Brief description of the second feature.</i>
-    </td>
-    <td align="center">
-      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/anim6.gif" width="45%"/><br/>
+      <img src="https://github.com/nick-cdev/WowAccountManager/blob/master/assets/Animation5.gif" width="300px"/><br/>
       <b>Feature Two</b><br/>
       <i>Brief description of the second feature.</i>
     </td>
   </tr>
 </table>
+
 
 ## 📦 Featured Systems Projects
 *   **[Winsock Network Interceptor (C)](https://github.com/nick-cdev/Winsock32-hook)** — ✅ **Stable**
