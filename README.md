@@ -12,7 +12,7 @@ A high-performance framework for real-time process injection and engine-interope
 *   **Optimized:** Built to run smoothly without dropping your FPS.
 
 <p align="center">
-  <p><i>A quick demo of the injected DirectX playerboxes overlay and 1 button binded together gameplay actions.</i></p>
+  <p><i>A quick demo of an injected DirectX overlay featuring player bounding boxes and single-key gameplay macros.</i></p>
   <video src="https://github.com/user-attachments/assets/1395bcd5-ea23-4ef5-ab8c-be42410071bc" width="100%" controls>
   </video>
 
