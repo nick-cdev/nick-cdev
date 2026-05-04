@@ -17,7 +17,6 @@ A high-performance framework for real-time process injection and engine-interope
   </video>
 </p>
 
-## 📦 Featured Systems Projects
 *   **[Winsock Network Interceptor (C)](https://github.com/nick-cdev/Winsock32-hook)** — ✅ **Stable**
     * Real-time network interception and payload manipulation, uses custom ASM hooks and file-mapped ring buffers.
 *   **[WowAccountManager](https://github.com/nick-cdev/WowAccountManager)** — ✅ **Stable**
