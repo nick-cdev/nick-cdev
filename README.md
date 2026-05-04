@@ -12,8 +12,8 @@ A high-performance framework for real-time process injection and engine-interope
 *   **Optimized:** Built to run smoothly without dropping your FPS.
 <p align="center">
   <video src="https://github.com/user-attachments/assets/1395bcd5-ea23-4ef5-ab8c-be42410071bc" width="100%" controls>
+  <p><i>A quick demo of the search feature.</i></p>
   </video>
-</p>
 
 ## 📦 Featured Systems Projects
 *   **[Winsock Network Interceptor (C)](https://github.com/nick-cdev/Winsock32-hook)** — ✅ **Stable**
