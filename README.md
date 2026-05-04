@@ -10,19 +10,11 @@ I spend my time exploring the boundaries of the Windows OS, from process injecti
 A high-performance framework for real-time process injection and engine-interoperability within complex gaming environments
 *   **Automation Suite:** Tools for repetitive gameplay tasks, Direct3D visualization and combat efficiency.
 *   **Optimized:** Built to run smoothly without dropping your FPS.
-<details>
-<summary>Click to view video and description</summary>
-
-https://github.com
-
-**Description:**
-1. User enters credentials.
-2. 2FA prompt appears.
-3. Successful login redirect.
-</details>
+<video src="https://github.com/user-attachments/assets/1395bcd5-ea23-4ef5-ab8c-be42410071bc" controls width="100%">
+</video>
 <p align="center">
+  <p><i>A quick demo of the injected DirectX playerboxes overlay and 1 button binded together gameplay actions.</i></p>
   <video src="https://github.com/user-attachments/assets/1395bcd5-ea23-4ef5-ab8c-be42410071bc" width="100%" controls>
-  <p><i>A quick demo of the search feature.</i></p>
   </video>
 
 ## 📦 Featured Systems Projects
