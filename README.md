@@ -1,6 +1,6 @@
 # Hi there, I'm Nick! 👋
 
-I am a systems-focused developer specializing in **Memory Hooking, Reverse Engineering and Network Interception**. I spend my time exploring the boundaries of the Windows OS, from process injection and manual hooking to high-performance inter-process communication.
+I spend my time exploring the boundaries of the Windows OS, from process injection and manual hooking to high-performance inter-process communication.
 
 > **Note:** All projects are for educational purposes and security research.
 
